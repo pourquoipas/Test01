@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tests01</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    
+<!-- FIRST TEST ACTIVITY -->    
+	<string name="title_first_test">First Test Title</string>
+</resources>
